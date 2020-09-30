@@ -1,0 +1,23 @@
+﻿<Window x:Class="TestKlient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestKlient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="306.11" Width="355.392">
+    <Grid>
+        <Label Content="Melding: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="44,26,0,0" FontSize="14"/>
+        <Label Content="Antall: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="44,60,0,0" FontSize="14"/>
+        <Button x:Name="btnKobleTil" Content="Koble Til" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Margin="44,149,0,0" FontSize="14" Height="29" Click="btnKobleTil_Click"/>
+        <TextBox x:Name="Meldingtxt" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="Melding" VerticalAlignment="Top" Width="73" Margin="113,30,0,0" FontSize="14"/>
+        <TextBox x:Name="Antalltxt" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="Antall" VerticalAlignment="Top" Width="73" Margin="113,64,0,0" FontSize="14"/>
+        <Button x:Name="btnKobleFra" Content="Koble Fra" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Margin="176,149,0,0" FontSize="14" Height="29" Click="btnKobleFra_Click"/>
+        <Button x:Name="btnStartTest" Content="Start Test" HorizontalAlignment="Left" VerticalAlignment="Top" Width="242" Margin="44,193,0,0" FontSize="14" Height="29" Click="btnStartTest_Click"/>
+        <Label Content="Delay: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="44,92,0,0" FontSize="14"/>
+        <TextBox x:Name="Delaytxt" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="Delay" VerticalAlignment="Top" Width="73" Margin="113,96,0,0" FontSize="14"/>
+        <Label Content="i millisekunder" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="191,92,0,0" FontSize="14"/>
+        <Label Content="Port: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,231,0,0" FontSize="14"/>
+        <TextBox x:Name="PortTxt" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" Text="PortNr" VerticalAlignment="Top" Width="73" Margin="133,235,0,0" FontSize="14"/>
+    </Grid>
+</Window>

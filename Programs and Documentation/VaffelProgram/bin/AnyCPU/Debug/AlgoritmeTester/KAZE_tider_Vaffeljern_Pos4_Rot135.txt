@@ -1,0 +1,4 @@
+Dette er en test for tidene KAZE bruker på å finne: Vaffeljern.
+
+
+Gjennomsnittelig tid: NaN ms

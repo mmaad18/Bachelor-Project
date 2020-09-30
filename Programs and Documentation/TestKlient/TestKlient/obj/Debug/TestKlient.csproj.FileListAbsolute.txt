@@ -1,0 +1,14 @@
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\bin\Debug\TestKlient.exe.config
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\bin\Debug\TestKlient.exe
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\bin\Debug\TestKlient.pdb
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\MainWindow.g.cs
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\App.g.cs
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient_MarkupCompile.cache
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient_MarkupCompile.lref
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\MainWindow.baml
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.g.resources
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.Properties.Resources.resources
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.csproj.GenerateResource.Cache
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.exe
+C:\Users\Yahya\Google Drive\Bachelorprosjekt\Eksprimentering\TestKlient\TestKlient\obj\Debug\TestKlient.pdb
